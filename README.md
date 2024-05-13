@@ -66,4 +66,8 @@ public static class ExtensionMethods
 
 [Download the package now and ensure security in your file upload processes!](https://www.nuget.org)
 
+<<<<<<< HEAD
 Hope you like it!
+=======
+Hope you like it!
+>>>>>>> e50324d065ac69bb5c173d453ba90ff0a06de91a
